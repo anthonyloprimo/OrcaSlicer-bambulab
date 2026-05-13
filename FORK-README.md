@@ -1,0 +1,1 @@
+This is a fork of FULU Foundation's OrcaSlicer, which itself was a clone/fork/whatever of the original project due to BambuLab's tomfoolery.
